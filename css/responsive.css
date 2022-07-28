@@ -1,0 +1,136 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    .back_top {
+       
+        bottom: 38px;
+        
+    }
+    .overtext h5 {
+        margin-top: 33px;
+       
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    #myNav .nav-item .nav-link {       
+        padding: 21px 14px;       
+    }
+    #banner .carousel-item {
+        height: 500px;
+    }
+    
+    .back_top {
+        
+        bottom: 40px;
+       
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+    #banner .carousel-item {
+        height: 500px;       
+    }
+    #banner .carousel-caption h1 {
+        font-size: 36px;       
+        letter-spacing: 15px;
+    }
+    .overtext {
+        
+        top: 35px;
+        bottom: 35px;
+        left: 45px;
+        right: 45px;
+        
+    }
+    
+}
+@media(max-width:767.98px){
+    .customNav {
+        padding: 11px 0;
+    }
+    #myNav ul li a {       
+        padding: 12px 0px;
+
+    }
+    .section_heading p span {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    #about {
+        padding: 40px 0 95px 0;
+    }
+    .about_border {
+        border: none;
+    }
+    .about_items {
+        padding: 40px 0px;
+        border-bottom: 3px solid #ddd;
+    }
+}
+
+@media (max-width:575.98px){
+    #banner .carousel-item {
+        height: 350px;
+        
+    }
+    .carousel-caption h4 {       
+        display: none;
+    }
+    
+    #banner .carousel-caption h1 {
+        font-size: 33px;
+        letter-spacing: 3px;
+        margin-right: 0px;
+    }
+    .carousel-caption p {
+        padding-right: 16px;
+    }
+    .carousel-caption img {
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+    
+    
+    #about .section_heading {
+        margin-bottom: 20px;
+    }
+    #work {
+        margin: 38px 0  40px 0;
+    }
+    #contact {
+        padding: 48px 0;
+    }
+    #service {
+        padding: 35px 0;
+    }
+    #contact_part {
+       
+        padding: 24px 0;
+    }
+     #contact_part input {
+       
+        margin-bottom: 30px;
+        height: 36px;
+       
+    }
+    #contact_part  textarea {
+        height: 85px;
+        
+    }
+    .back_top {
+        
+        width: 35px;
+        height: 35px;
+        
+        right: 27px;
+        bottom: 30px;
+        line-height: 35px;
+        
+    }
+    .carousel-caption button {
+       
+        padding: 5px 7px;
+       
+        font-size: 15px;
+        
+    }
+    
+}
